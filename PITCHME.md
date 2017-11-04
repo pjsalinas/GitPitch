@@ -1,11 +1,13 @@
-@slide[Introduction]
+@title[Introduction]
 
 # GitPitch
 This is my first slide should be an introduction
 
 Slides located at: https://github.com/pjsalinas/GitPitch
 
-@slide[Example of Standard slide]
+---
+
+@title[Example of Standard slide]
 
 This is a regular slide, everything that is in here stays here.
 
@@ -13,7 +15,7 @@ You don't have to do anything else.
 
 ---
 
-@slide[Example of Code]
+@title[Example of Code]
 
 ## Code Example
 
@@ -30,7 +32,7 @@ bot = botBuider(function(request, response) {/* ... */} );
 
 ---
 
-@slide[Example of UnOrdered list]
+@title[Example of UnOrdered list]
 
 ## Unordered List
 
