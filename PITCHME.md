@@ -11,6 +11,8 @@ This is a regular slide, everything that is in here stays here.
 
 You don't have to do anything else.
 
+---
+
 @slide[Example of Code]
 
 ```javascript
@@ -24,6 +26,12 @@ bot = botBuider(function(request, response) {/* ... */} );
 @[2](Add the Claudia Bot Builder Module)
 @[4](You're done!!!)
 
+---
+
 @slide[Example of UnOrdered list]
+
+* the first item
+* the second item
+* the third item
 
 
