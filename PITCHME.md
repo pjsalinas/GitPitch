@@ -15,6 +15,8 @@ You don't have to do anything else.
 
 @slide[Example of Code]
 
+## Code Example
+
 ```javascript
 const Airtable = require('airtable');
 const botBuilder = require('claudia-bot-builder');
@@ -29,6 +31,8 @@ bot = botBuider(function(request, response) {/* ... */} );
 ---
 
 @slide[Example of UnOrdered list]
+
+## Unordered List
 
 * the first item
 * the second item
